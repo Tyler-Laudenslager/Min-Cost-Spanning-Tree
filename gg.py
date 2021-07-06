@@ -1,3 +1,8 @@
+#Authors
+#Tyler Laudenslager
+#Phil Thomas
+
+
 import random
 import itertools
 import os
